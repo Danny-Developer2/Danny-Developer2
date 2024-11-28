@@ -1,96 +1,25 @@
-<h1 align="center"><b>Hi , I'm Danny Ruiz  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Danny Ruiz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&height=100&lines=Front-End+Developer;Specialized+in+Angular+and+.NET;Experienced+in+React+and+Next.js;Creative+Problem+Solver;Always+Learning+and+Evolving!" alt="Typing SVG" /></a> </p>
+<h3 align="center">Languages and Tools:</h3> <p align="center"> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> </p>
+About Me!
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=4000&pause=1000&color=F71A8B&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Ciberseguridad;Active+Learner%2FResearcher;Love+to+learn+new+stuffs+%3C3" alt="Typing SVG" /></a>
-</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <!-- Imagen de Webpack eliminada -->
-  </a>
-</p>
-
-
-
-  
-
-**About Me!**
-
-- 👩‍💻 Contact me at [Linkedin](https://www.linkedin.com/in/danny-ruiz-9b7a24175/)
-- 📫 Email me at [daniel.luevanoui@uanl.edu.mx](mailto:daniel.luevanoui@uanl.edu.mx).
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-
-<p><p>¡Hola! ¡Bienvenidos a mi perfil! 👋 Soy Daniel, un Desarrollador FullStack formado en el Bootcamp de SoyHenry 👩🏻‍💻 y un Pentester en Ciberseguridad En curso en FCFM en Universidad Autonoma de Nuevo leon 👩🏻‍🏫.
-
-A lo largo de mi vida, me ha apasionado la Ciberseguridad  en todas sus facetas y soy una persona muy curiosa que busca constantemente nuevos conocimientos 📖🧐.
-
-Como Pentester , quise explorar el Desarrollo Web, así que comencé a tomar cursos de UX UI, y así fue como descubrí el mundo de la informática y la programación. Encontré un lugar donde puedo combinar todos mis conocimientos y pasión por la Ciberseguridad, teniendo las herramientas necesarias para darle vida, y me encanta. 💕
-
-Cambiar de carrera fue un desafío, pero me adapté fácilmente porque disfruto superándome para adquirir nuevos conocimientos y experiencias que me ayuden a crecer tanto profesional como personalmente.
-
-Siempre estoy encantado de seguir creciendo, aprendiendo, colaborando y trabajando con gran pasión y dedicación para lograr los mejores resultados en cada proyecto en el que me involucro. 🚀✨ Si estás buscando a alguien como yo, ¡no dudes en ponerte en contacto! ¡Sería un placer trabajar juntos! 😊<p/></p>
-
-  ```javascript
-const darkie = {
+👨‍💻 Frontend Developer focused on building interactive and performant web applications.
+🌐 Passionate about Angular, React, Next.js, and building reusable components with TypeScript.
+🚀 Experienced in creating RESTful APIs with .NET for full integration between frontend and backend systems.
+📫 Email me at daniel.luevanoui@uanl.edu.mx.
+💬 Let's connect on LinkedIn.
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> <p align="justify">Hola 👋 Soy Danny Ruiz, un **Frontend Developer** apasionado por la tecnología y las experiencias digitales atractivas. Me especializo en **Angular** y **React**, combinando creatividad y conocimientos técnicos para construir aplicaciones modernas e intuitivas.</p> <p align="justify">Con experiencia en **.NET**, puedo desarrollar soluciones completas e integradas, asegurando tanto la funcionalidad como la estética en cada proyecto. Siempre estoy buscando aprender nuevas herramientas y mejorar mis habilidades.</p> <p align="justify">A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones empresariales hasta experiencias interactivas. Mi objetivo es crear productos que no solo sean funcionales, sino que también dejen una impresión duradera. ¡Siempre estoy emocionado de colaborar en nuevos retos! 🚀</p>
+Tech Stack
+javascript
+Copiar código
+const danny = {
     pronouns: "he" | "him",
-    code: ["typescript", "dart", "c#", "python", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "game dev", "machine learning"],
-    technologies: {
-        frontEnd: {
-            js: ["react", "next", "vue", "nuxt", "react native", "ionic"],
-            css: ["material-ui", "vuetify", "bootstrap", "bulma"],
-            dart: ["flutter"]
-        },
-        backEnd: {
-            js: ["node", "express", "adonis", "strapi"],
-            php: ["laravel"],
-            ai: ["brainJS"],
-        },
-        testing: ['cypress'],
-        services: ["firebase", "AWS", "Gpay", "Appodeal"],
-        deploy_systems: ["github actions", "heroku", "firebase", "G-play console"],
-        virtualization: ["docker🐳"],
-        databases: ["postgresql", "mysql", "sqlite", "redis"],
-        misc: ["python"]
+    techStack: {
+        frontend: ["Angular", "React", "Next.js", "TypeScript"],
+        backend: [".NET", "REST APIs"],
+        styling: ["Tailwind", "Sass", "Material UI"],
+        tools: ["Git", "VS Code", "Postman"]
     },
-    architecture: ["serverless", "pwa", "spa", "clean"],
-    currentProjects: ["Native Coded PSX Game", "Food Delivery App"],
-    funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
+    currentFocus: "Building robust frontend architectures with Angular and Next.js",
+    funFact: "I love debugging – it's like solving a puzzle!"
 };
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center"> <em>"Connecting ideas and creating memorable web experiences – let's build something great together!"</em> ✨ </p>
