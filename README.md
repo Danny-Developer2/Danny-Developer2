@@ -13,6 +13,12 @@
 
 <br/>
 
+<a href="https://juan-luevano-portafolio.netlify.app/">
+  <img src="https://avatars.githubusercontent.com/u/185439525?v=4" width="130" alt="Juan Luevano" />
+</a>
+
+<br/><br/>
+
 ![Monterrey](https://img.shields.io/badge/📍_Monterrey,_N.L.-México-0f2027?style=for-the-badge)
 ![Disponible](https://img.shields.io/badge/🟢_Disponible_para-oportunidades-00ADB5?style=for-the-badge)
 ![Visitas](https://komarev.com/ghpvc/?username=Danny-Developer2&label=Visitas&color=00ADB5&style=for-the-badge)
@@ -56,6 +62,30 @@ Profesional de sistemas con formación en **Seguridad de Tecnologías de la Info
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding" />
+
+</div>
+
+---
+
+## 🌐 Mi portafolio web
+
+<div align="center">
+
+<a href="https://juan-luevano-portafolio.netlify.app/">
+  <img src="https://juan-luevano-portafolio.netlify.app/og-image.jpg" width="85%" alt="Vista previa de mi portafolio" />
+</a>
+
+<br/>
+
+<a href="https://juan-luevano-portafolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Visitar_portafolio_→-00ADB5?style=for-the-badge&logo=netlify&logoColor=white" alt="Visitar portafolio"/>
+</a>
+
+</div>
 
 ---
 
@@ -186,6 +216,10 @@ Profesional de sistemas con formación en **Seguridad de Tecnologías de la Info
 <a href="mailto:daniel_luevanolr@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Hola" />
+
+<br/>
 
 *"Código limpio, seguridad desde el diseño y mejora continua."* ✨
 
